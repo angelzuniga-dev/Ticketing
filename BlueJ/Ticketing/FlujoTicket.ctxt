@@ -1,0 +1,9 @@
+#BlueJ class context
+#Mon Sep 07 21:18:15 CST 2026
+comment0.target=FlujoTicket
+comment0.text=\r\n Clase de flujo que llama a los metodos de las demas clases para\r\n simular el ciclo de vida completo de un ticket\:\r\n registrar -> crear -> adjuntar fotografia -> asignar -> escalar -> cerrar -> metricas.\r\n\r\n En BlueJ se puede crear un objeto de esta clase y llamar a\r\n ejecutarFlujoCompleto() desde el banco de objetos, o correr main().\r\n
+comment1.target=FlujoTicket()
+comment2.target=void ejecutarFlujoCompleto()
+comment3.params=args
+comment3.target=void main(java.lang.String[])
+numComments=4

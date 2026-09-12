@@ -1,0 +1,17 @@
+#BlueJ class context
+#Mon Sep 07 21:18:15 CST 2026
+comment0.target=GestorTicket
+comment0.text=\r\n Clase controladora que gestiona el flujo del proceso de tickets\:\r\n creacion, asignacion, escalamiento, cierre y generacion de metricas.\r\n
+comment1.target=GestorTicket()
+comment2.params=solicitante descripcion prioridad
+comment2.target=Ticket crearTicket(Solicitante, java.lang.String, java.lang.String)
+comment3.params=ticket tecnico
+comment3.target=void asignarTicket(Ticket, Tecnico)
+comment4.params=ticket
+comment4.target=void escalarTicket(Ticket)
+comment5.params=ticket
+comment5.target=void cerrarTicket(Ticket)
+comment6.target=void generarMetricas()
+comment7.target=java.util.List getTicketsActivos()
+comment8.target=Bitacora getBitacora()
+numComments=9

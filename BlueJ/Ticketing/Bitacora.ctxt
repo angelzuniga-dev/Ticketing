@@ -1,0 +1,12 @@
+#BlueJ class context
+#Mon Sep 07 21:18:15 CST 2026
+comment0.target=Bitacora
+comment0.text=\r\n Registra el historial de acciones realizadas sobre los tickets.\r\n
+comment1.target=Bitacora()
+comment2.params=idTicket accion usuario
+comment2.target=void registrarEvento(int, java.lang.String, java.lang.String)
+comment3.params=idTicket
+comment3.target=java.util.List consultarHistorial(int)
+comment4.target=void exportarReporte()
+comment5.target=int getTotalEventos()
+numComments=6

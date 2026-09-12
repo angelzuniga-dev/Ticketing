@@ -1,0 +1,17 @@
+#BlueJ class context
+#Mon Sep 07 21:18:15 CST 2026
+comment0.target=Persona
+comment0.text=\r\n Clase base que representa a una persona dentro del sistema.\r\n Solicitante y Tecnico heredan de esta clase.\r\n
+comment1.params=idPersona nombre apellido correo telefono
+comment1.target=Persona(int, java.lang.String, java.lang.String, java.lang.String, java.lang.String)
+comment10.target=java.lang.String toString()
+comment2.target=void registrar()
+comment3.params=correo telefono
+comment3.target=void actualizarDatos(java.lang.String, java.lang.String)
+comment4.target=boolean validarCorreo()
+comment5.target=int getIdPersona()
+comment6.target=java.lang.String getNombre()
+comment7.target=java.lang.String getApellido()
+comment8.target=java.lang.String getCorreo()
+comment9.target=java.lang.String getTelefono()
+numComments=11

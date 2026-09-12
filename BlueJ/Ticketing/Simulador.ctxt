@@ -1,0 +1,11 @@
+#BlueJ class context
+#Sat Sep 12 10:01:07 CST 2026
+comment0.target=Simulador
+comment0.text=\r\n Simulador automatico del sistema de tickets\: registra usuarios, crea\r\n tickets, los asigna, escala, cierra, muestra la bitacora y las metricas,\r\n y ademas prueba el manejo de errores. Todo ocurre en secuencia, sin pedir\r\n datos por teclado.\r\n\r\n En BlueJ\: crea un objeto Simulador y llama a ejecutar() desde el banco\r\n de objetos, o corre main() directamente.\r\n
+comment1.target=Simulador()
+comment2.target=void ejecutar()
+comment3.params=titulo
+comment3.target=void separador(java.lang.String)
+comment4.params=args
+comment4.target=void main(java.lang.String[])
+numComments=5

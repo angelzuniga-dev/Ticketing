@@ -1,0 +1,14 @@
+#BlueJ class context
+#Mon Sep 07 21:18:15 CST 2026
+comment0.target=Solicitante
+comment0.text=\r\n Representa a un solicitante (cliente) que puede crear tickets de soporte.\r\n Hereda de Persona.\r\n
+comment1.params=idPersona nombre apellido correo telefono departamento extension
+comment1.target=Solicitante(int, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)
+comment2.target=void registrar()
+comment3.params=idTicket descripcion prioridad
+comment3.target=Ticket crearTicket(int, java.lang.String, java.lang.String)
+comment4.params=ticket
+comment4.target=java.lang.String consultarEstado(Ticket)
+comment5.target=java.lang.String getDepartamento()
+comment6.target=java.lang.String getExtension()
+numComments=7

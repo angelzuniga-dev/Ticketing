@@ -1,0 +1,26 @@
+#BlueJ class context
+#Mon Sep 07 21:18:15 CST 2026
+comment0.target=Ticket
+comment0.text=\r\n Representa un ticket de soporte.\r\n\r\n NOTA\: en Java una clase NO puede heredar de dos clases a la vez\r\n (no existe herencia multiple de clases, a diferencia del diagrama UML).\r\n Por eso Ticket no hace "extends Solicitante, Tecnico"; en su lugar los\r\n relaciona por COMPOSICION, guardando una referencia a cada uno. Esta es\r\n la forma correcta en Java de representar lo que el diagrama de clases\r\n muestra como herencia multiple.\r\n
+comment1.params=idTicket descripcion prioridad solicitante tecnico
+comment1.target=Ticket(int, java.lang.String, java.lang.String, Solicitante, Tecnico)
+comment10.target=java.lang.String getPrioridad()
+comment11.target=java.util.Date getFechaCreacion()
+comment12.target=java.util.Date getFechaCierre()
+comment13.target=java.lang.String getFotografia()
+comment14.target=Solicitante getSolicitante()
+comment15.target=Tecnico getTecnico()
+comment16.params=tecnico
+comment16.target=void setTecnico(Tecnico)
+comment17.target=java.lang.String toString()
+comment2.target=void crear()
+comment3.params=tecnico
+comment3.target=boolean asignar(Tecnico)
+comment4.target=boolean escalar()
+comment5.target=boolean cerrar()
+comment6.params=rutaImagen
+comment6.target=void adjuntarFotografia(java.lang.String)
+comment7.target=int getIdTicket()
+comment8.target=java.lang.String getDescripcion()
+comment9.target=java.lang.String getEstado()
+numComments=18
